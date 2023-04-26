@@ -33,6 +33,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saubhagyap&show_icons=true&locale=en" alt="saubhagyap" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saubhagyap&show_icons=true&locale=en" alt="saubhagyap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saubhagyap&" alt="saubhagyap" /></p>
